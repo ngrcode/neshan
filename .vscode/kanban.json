@@ -1,0 +1,17 @@
+{
+  "completed": [
+    { "name": "multi line clamps" },
+    { "name": "fiels user ,cps,sourceNumbers in filter smses" }
+  ],
+  "inprogress": [{ "name": "login form in sms" }],
+  "testing": [],
+  "todo": [
+    { "name": "eslint for use client when using useState" },
+    { "name": "loginform in portal" },
+    { "name": "loginform in pwa-portal" },
+    { "name": "login form in karmozd" },
+    {
+      "name": "سرویس دهندگان cp سرویس گیرندگان clients لیست صف ها =  گزارش پیامک ها"
+    }
+  ]
+}
